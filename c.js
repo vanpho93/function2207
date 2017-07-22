@@ -12,6 +12,9 @@ const arrSubjects = ['NodeJS', 'React', 'Native', 'PHP', 'Android', 'iOS'];
 // arrSubjects.unshift('Unity');
 
 // arrSubjects.splice(2, 2);
-arrSubjects.splice(2, 0, 'Unity', 'MEAN');
+// arrSubjects.splice(2, 0, 'Unity', 'MEAN');
+// arrSubjects.reverse();
 
-console.log(arrSubjects);
+const phpIndex = arrSubjects.indexOf('PHP');
+console.log(phpIndex);
+// console.log(arrSubjects);

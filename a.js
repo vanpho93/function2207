@@ -1,16 +1,3 @@
-/*
-b1
-n = 6;
-*
-**
-***
-****
-*****
-******
----------
-
-*/
-
 function veHinh1(n) {
     for (let i = 1; i <= n; i++) {
         let str = '';
@@ -21,22 +8,6 @@ function veHinh1(n) {
         console.log(str);
     }
 }
-
-// veHinh1(5);
-
-/*
-
-b2
-n = 5
-*****
- ****
-  ***
-   **
-    *
-----------
-
-*/
-
 function veHinh2(n) {
     for (let i = 1; i <= n; i++) {
         let str = '';
@@ -47,19 +18,6 @@ function veHinh2(n) {
         console.log(str);
     }
 }
-
-// veHinh2(10);
-/*
-
-n = 5
-b3
-*****
-****
-***
-**
-*
-*/
-
 function veHinh3(n) {
     for (let i = 1; i <= n; i++) {
         let str = '';
@@ -70,21 +28,6 @@ function veHinh3(n) {
         console.log(str);
     }
 }
-
-// veHinh3(5);
-
-/*
-b4
-n = 6
-     *
-    **
-   ***
-  ****
- *****
-******
-----------
-*/
-
 function veHinh4(n) {
     for (let i = 1; i <= n; i++) {
         let str = '';
@@ -95,16 +38,6 @@ function veHinh4(n) {
         console.log(str);
     }
 }
-// veHinh4(5);
-/*
-b5: n = 4
-// Math.abs();
-   *
-  *** 
- ***** 
-******* 
-*/
-
 function veHinh5(n) {
     for (let i = 1; i <= n; i++) {
         let str = '';
@@ -116,4 +49,7 @@ function veHinh5(n) {
     }
 }
 
-veHinh5(6);
+function veHinh() {
+    
+}
+

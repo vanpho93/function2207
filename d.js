@@ -1,10 +1,10 @@
 const khoa = {
     name: 'Khoa Pham',
-    age: 30
-    // company: {
-    //     companyName: 'KP Training',
-    //     address: '92 Le Thi Rieng'
-    // }
+    age: 30,
+    company: {
+        companyName: 'KP Training',
+        address: '92 Le Thi Rieng'
+    }
 };
 
 const teo = {
